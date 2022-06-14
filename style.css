@@ -168,17 +168,17 @@ a.info-box{
     text-align: center;
 }
 
-
+/*====== SPECIALS ======*/
 
 .special1{
     float: left;
     display: block;
     width: 25%;
     height: max-content;
-    border: 1px solid black;
+    
     border-radius: 10px;
     
-    margin-left: 20px;
+    margin-left: 8.33%;
 }
 
 .special2{
@@ -186,10 +186,10 @@ a.info-box{
     display: block;
     width: 25%;
     height: max-content;
-    border: 1px solid black;
+    
     border-radius: 10px;
     
-    margin-left: 20px;
+    margin-left: 8.33%;
 }
 
 .special3{
@@ -197,10 +197,10 @@ a.info-box{
     display: block;
     width: 25%;
     height: max-content;
-    border: 1px solid black;
+   
     border-radius: 10px;
     
-    margin-left: 20px;
+    margin-left: 8.33%;
 }
 
 
@@ -209,18 +209,16 @@ a.info-box{
     display: block;
     width: 25%;
     height: max-content;
-    border: 1px solid black;
     border-radius: 10px;
     
     margin: 15px 50px 5px 25%;
 }
 
 .special5{
-    float: right;
+    float: left;
     display: block;
     width: 25%;
     height: max-content;
-    border: 1px solid black;
     border-radius: 10px;
     
     margin: 15px 25% 5px 50px;
